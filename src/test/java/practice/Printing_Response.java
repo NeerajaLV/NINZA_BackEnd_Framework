@@ -29,6 +29,7 @@ public void printTest() {
 	
 	resp.asString();
 	System.out.println("====================As String=================");
+	System.out.println("=====================================");
 	System.out.println("====================Pretty Print=================");
 	System.out.println(resp.prettyPrint());
 	System.out.println("====================Pretty Peek=================");
